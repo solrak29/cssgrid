@@ -21,11 +21,11 @@ website design [w3schools grid layout](https://www.w3schools.com/css/css_rwd_gri
 Next, I found Bootstrap that already did a lot of heavy css lifting for you to create professional
 quality web interfaces and included a grid.  At about the same time, I ran across many videos that showed
 HTML supporting a grid component in CSS core.  This makes absolute sense for UI development
-and having the browser type interface to be the core UI for all applications.  
+and having the browser interface to be the core UI for all applications.  
 
-Then, I ran into this youtube video that finally motivated me to get started: [CSS GRID YouTube Vid](https://www.youtube.com/watch?v=HgwCeNVPlo0)
-This was a quick tutorial to get my feet wet and create this repository for future reference
-and templates.
+Then, I ran into this youtube video [CSS GRID YouTube Vid](https://www.youtube.com/watch?v=HgwCeNVPlo0) 
+that finally motivated me to get started.  This is a quick tutorial that motiviated me to create 
+this repository for future reference and templates.
 
 Here is another reference: [w3schools css grid](https://www.w3schools.com/css/css_grid.asp)
 
