@@ -1,7 +1,7 @@
 # cssgrid
 CSS GRID is a repository where I will store templates, play with features, and documents any thoughts on the subjects.
 
-#Background
+## Background
 
 I've always felt that grid is a vital component for the web interface to be really useful.
 Espcially, in working in the investment banking space and/or many other domains the biggest
