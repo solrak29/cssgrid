@@ -31,9 +31,9 @@ and templates.
 Here is another reference: [w3schools css grid](https://www.w3schools.com/css/css_grid.asp)
 
 Finally, it goes to show, as the HTML core components (i.e. css ) support needed UI features, we
-don't have to rely on 3rd party prodcuts.  I have seen organizations invest heavily
+don't have to rely on 3rd party products.  I have seen organizations invest heavily
 in 3rd party components for various reasons, but it is essential to use the core products if
-possible.  I am huge advocat with the business policy/model/methodology to use a 3rd party
+possible.  I am huge advocate with the business policy/model/methodology to use a 3rd party
 vendors to achieve time to market.  However, to be really competitive, any organizaiton should 
 invest in their technology and not realy on 3rd party vendor otherwise. 
 
