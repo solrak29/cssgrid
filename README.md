@@ -11,9 +11,8 @@ I am huge advocate that all UI will eventually fall to the web.  As the HTML sta
 evolves and browsers continue to support the standard features, we will essentially
 no longer require native interfaces for UI components in most cases.
 
-A while back in developing a tracking application for horse races I needed a grid.  I had
-a friend who is a web developer who created a grid with css from scratch.  As he was seasoned
-front end web developer this was fairly easy for him to flesh out quickly.  However, it 
+A while back in developing a tracking application for horse races I needed a grid.  I have
+a friend, a seasoned web developer, who created a grid with css from scratch.  However, it 
 was very basic and required lots of trial and error and time.  I continued this work on
 my own which led me to the concept of having a grid as the foundation for laying out
 website design [w3schools grid layout](https://www.w3schools.com/css/css_rwd_grid.asp)
