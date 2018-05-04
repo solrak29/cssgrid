@@ -11,22 +11,22 @@ I am huge advocate that all UI will eventually fall to the web.  As the HTML sta
 evolves and browsers continue to support the standard features, we will essentially
 no longer require native interfaces for UI components in most cases.
 
-A while back in developing a tracking application for horse races, I needed a grid and the
-web developer I worked with started creating a grid with css from scratch.  As he was seasoned
+A while back in developing a tracking application for horse races I needed a grid.  I had
+a friend who is a web developer who created a grid with css from scratch.  As he was seasoned
 front end web developer this was fairly easy for him to flesh out quickly.  However, it 
 was very basic and required lots of trial and error and time.  I continued this work on
-my own which led me to the concept of having a grid as the foundation for laying out your 
+my own which led me to the concept of having a grid as the foundation for laying out
 website design [w3schools grid layout](https://www.w3schools.com/css/css_rwd_grid.asp)
 *NOTE: I will add the template here for future reference.*
 
 Next, I found Bootstrap that already did a lot of heavy css lifting for you to create professional
-quality web interfaces.  At about the same time, I ran across many videos that showed
-HTML supporting a grid component in CSS.  This makes absolute sense for UI development
+quality web interfaces and included a grid.  At about the same time, I ran across many videos that showed
+HTML supporting a grid component in CSS core.  This makes absolute sense for UI development
 and having the browser type interface to be the core UI for all applications.  
 
-I ran into this youtube video that finally motivated me to get started: [CSS GRID YouTube Vid](https://www.youtube.com/watch?v=HgwCeNVPlo0)
-This was a quick tutorial to get my feet wet and I love that this is being supported by most
-browsers but most importantly css grid is part of the core HTML/CSS language.
+Then, I ran into this youtube video that finally motivated me to get started: [CSS GRID YouTube Vid](https://www.youtube.com/watch?v=HgwCeNVPlo0)
+This was a quick tutorial to get my feet wet and create this repository for future reference
+and templates.
 
 Here is another reference: [w3schools css grid](https://www.w3schools.com/css/css_grid.asp)
 
